@@ -23,9 +23,9 @@ export default function Hero() {
         id="hero"
         className="w-full bg-[#232222] p-4 px-4 h-[700px] xl:h-[750px] md:h-[644px] sm:overflow-hidden  justify-center items-center"
       >
-        <div className="bg-[#121212] w-full xl:max-w-[1200px] xl:mt-10 h-[412px] xl:h-[737px] mx-auto md:max-w-[730px] md:h-[602px]">
+        <div className="bg-[#121212]  xl:max-w-[1200px] xl:mt-10 h-[412px] xl:h-[737px] mx-auto md:max-w-[730px] md:h-[602px]">
           <div
-            className="absolute inset-0 bg-no-repeat bg-contain xl:bg-[length:30%] xl:bg-[100px_30px] z-0"
+            className="absolute inset-0 bg-no-repeat bg-contain xl:bg-[length:30%] xl:bg-[10px_30px] z-0"
             style={{
               backgroundImage: "url('/s.svg')",
               mixBlendMode: "lighten",

@@ -41,7 +41,7 @@ export default function Firstgracard() {
 
       
 
-        <p className="text-[#222124] font-montserrat font-medium italic text-base leading-[24px] mt-6 hidden lg:block">
+        <p className="text-[#222124] font-montserrat font-medium italic text-base leading-[24px] mt-4 hidden lg:block">
           "We specialize in crafting a distinctive and memorable brand identity
           for your business. From designing an impactful logo to choosing the
           right color palette, typography, and visual elements, we ensure every
